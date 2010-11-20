@@ -45,7 +45,7 @@
 		<script src="https://github.com/agat/jQuery-Semantic-Accordion/raw/master/js/jquery.semanticAccordion.js"></script>
 		<script>
 		$(function() {		
-			$('.b-accordion').sematicAccordion();
+			$('.b-accordion').semanticAccordion();
 		});
 		</script>
 	</head>
