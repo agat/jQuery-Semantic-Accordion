@@ -40,7 +40,7 @@
 		</style>
 		
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
-		<script src="js/jquery.semanticAccordion.min.js"></script>
+		<script src="https://github.com/agat/jQuery-Semantic-Accordion/raw/master/js/jquery.semanticAccordion.js"></script>
 		<script>
 		$(function() {		
 			$('.b-accordion').sematicAccordion();
