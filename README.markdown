@@ -26,11 +26,13 @@
 			padding: 0 16px;
 			background: #eee;
 			color: #333;
+			-moz-border-radius: 4px;
+			-webkit-border-radius: 4px;
 			border-radius: 4px;
 			cursor: pointer;
 		}
 		.b-accordion-opened {
-			background: #f2f2f5;
+			background: #ccc;
 			font-weight: bold;
 			color: #000;
 		}
