@@ -1,6 +1,6 @@
 /*
  * jQuery semanticAccordion
- * @copyright Aleksej Romanovskij http://agat.in/jquery-semantictabs/
+ * @copyright Aleksej Romanovskij http://agat.in/jquery-semantic-accordion-plugin/
  * @version 0.1
  */
 
